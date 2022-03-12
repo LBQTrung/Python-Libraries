@@ -2,3 +2,4 @@
 * Tkinter
 * Pygame
 * Pillow
+* Pytorch
